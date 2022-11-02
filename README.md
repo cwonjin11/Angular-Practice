@@ -1,4 +1,6 @@
 # MyFirstAngluarApp
+This is from new branch
+
 This is for git fetch test
 This is for a branch test
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.7.
