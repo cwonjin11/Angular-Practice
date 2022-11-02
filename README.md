@@ -1,5 +1,5 @@
 # MyFirstAngluarApp
-This is from new branch
+THis is a newBranch branch
 
 This is for git fetch test
 This is for a branch test
